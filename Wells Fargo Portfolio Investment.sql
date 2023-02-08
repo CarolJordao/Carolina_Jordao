@@ -1,8 +1,7 @@
 -- -------------------------------------------------------------------- --
 -- BUSINESS CHALLENGE #1
--- TEAM 4 | MBANDD 2022
+-- MBANDD 2022
 -- HULT INTERNATIONAL BUSINESS SCHOOL
--- Carolina Jordao, Riccardo Perez, Pallavi Sehgal, BadrEddine Bensaid
 -- -------------------------------------------------------------------- --
 
 /*
