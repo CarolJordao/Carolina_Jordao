@@ -8,4 +8,4 @@
 
 ✨ And I'm eager to start working in marketing and analytics
 
-📲 Reach me out: carolinajordao3@gmail.com | https://www.linkedin.com/in/carolina-jordão/
+📲 Reach me out: carolinajordao3@gmail.com | https://www.linkedin.com/in/carolina-jordao/
